@@ -12,5 +12,12 @@
     "company": "Nubank",
     "step": "novo",
     "created": "2026-09-10"
+  },
+  {
+    "name": "Renata",
+    "email": "r@gmail.com",
+    "company": "nubank",
+    "step": "new",
+    "created": "2026-09-17"
   }
 ]
